@@ -23,6 +23,7 @@ This project involves conducting a comprehensive data analysis using Python in a
 
 
 ## Technologies Used
+- Anaconda 3
 - Python - version 3.8.5
 - Jupyter Notebook - version 6.0.3
 - NumPy - version 1.18.5
