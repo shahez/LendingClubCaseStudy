@@ -30,7 +30,6 @@ This project involves conducting a comprehensive data analysis using Python in a
 - Matplotlib - version 3.2.2
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by the need to enhance risk assessment procedures in the lending industry.
 - The analysis was informed by various resources, including articles on risk analytics and loan default prediction.
 - The efforts of my case study Partner Saurabh Singh
