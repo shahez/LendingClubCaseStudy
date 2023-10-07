@@ -24,11 +24,12 @@ This project involves conducting a comprehensive data analysis using Python in a
 
 ## Technologies Used
 - Anaconda 3
-- Python - version 3.8.5
-- Jupyter Notebook - version 6.0.3
-- NumPy - version 1.18.5
-- Pandas - version 1.0.5
-- Matplotlib - version 3.2.2
+- Python - version 3.11.4
+- Jupyter Notebook - version 6.5.4
+- NumPy - version 1.24.3
+- Pandas - version 1.5.3
+- Matplotlib - version 3.7.1
+- Seaborn - version 0.12.2
 
 ## Acknowledgements
 - This project was inspired by the need to enhance risk assessment procedures in the lending industry.
