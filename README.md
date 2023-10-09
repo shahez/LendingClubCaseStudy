@@ -34,7 +34,7 @@ This project involves conducting a comprehensive data analysis using Python in a
 ## Acknowledgements
 - This project was inspired by the need to enhance risk assessment procedures in the lending industry.
 - The analysis was informed by various resources, including articles on risk analytics and loan default prediction.
-- The efforts of my case study Partner Saurabh Singh
+- The efforts of my case study Partner [Saurabh Singh]
 - This project was based on [Lending Club Case Study](https://learn.upgrad.com/course/4701).
 
 
