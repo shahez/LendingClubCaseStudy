@@ -39,5 +39,5 @@ This project involves conducting a comprehensive data analysis using Python in a
 
 
 ## Contact
-Created by [@shaez](https://github.com/shahez) - feel free to contact me!
+Created by [@shahez](https://github.com/shahez) - feel free to contact me!
 
